@@ -1,5 +1,8 @@
 # Ember CLI Hoverintent
 
+[![Build Status](https://travis-ci.org/elwayman02/ember-cli-hoverintent.svg?branch=master)](https://travis-ci.org/elwayman02/ember-cli-hoverintent)
+[![Code Climate](https://codeclimate.com/github/elwayman02/ember-cli-hoverintent/badges/gpa.svg)](https://codeclimate.com/github/elwayman02/ember-cli-hoverintent)
+
 This addon provides a vendor shim for [hoverintentjs](https://github.com/tristen/hoverintent), allowing it to be accessed as an ES6 module
 
 ## Installation
