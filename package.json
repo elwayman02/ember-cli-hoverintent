@@ -11,7 +11,7 @@
     "start": "ember server",
     "test": "ember test"
   },
-  "repository": "",
+  "repository": "https://github.com/elwayman02/ember-cli-hoverintent",
   "engines": {
     "node": ">= 0.10.0"
   },
@@ -39,7 +39,8 @@
     "rsvp": "^3.2.1"
   },
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "hoverintent"
   ],
   "dependencies": {
     "ember-cli-babel": "^5.1.6"
