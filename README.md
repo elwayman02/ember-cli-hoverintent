@@ -14,10 +14,10 @@ This addon provides a vendor shim for [hoverintent](https://github.com/tristen/h
 Simply import `hoverintent`:
 
 ```javascript
-import hoverintent from `hoverintent`;
+import hoverIntent from `hoverintent`;
 ```
 
-Then call the `hoverintent` method as you would the global provided by the bower package.
+Then call the `hoverIntent` method as you would the global provided by the bower package.
 
 ## Contributing
 
