@@ -1,11 +1,6 @@
 {
   "name": "ember-cli-hoverintent",
   "dependencies": {
-    "ember": "~2.7.0",
-    "ember-cli-shims": "0.1.1",
     "hoverintentjs": "^1.0.1"
-  },
-  "devDependencies": {
-    "ember-qunit-notifications": "0.1.0"
   }
 }
